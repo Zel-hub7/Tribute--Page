@@ -15,6 +15,9 @@ body{ background-color: aquamarine;
   }
 
 #image {
+ 
+ 
+    /**color: white; **/
     max-width: 55%;
     height: auto;
     display: block;
